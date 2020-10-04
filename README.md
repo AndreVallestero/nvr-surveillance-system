@@ -3,7 +3,7 @@ Notes for setting up a nvr-surveillance-system
 
 Network Video Recorders (NVR) are different from Video Management Software (VMS), Video Surveillance Storage (VVS), Digital Video Recorders (DVR), and Central Management Software (CMS).
 
-The other variants are ideal for Closed Circuit Television, where the video never leaves the system of cameras and storage.
+The other variants are ideal for Closed Circuit Television, where the video never leaves the camera and storage.
 
 NVRs are meant to be network based (ingest pre-encoded video) and are capable of serving the video streams (past or present) to a user frontend (usually a web client). This is useful for people who want to monitor their cameras remotely over the internet.
 
