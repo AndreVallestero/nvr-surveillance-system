@@ -46,7 +46,7 @@ To directly access the network stream through RTSP with VLC or other players, us
 - Main: rtsp://192.168.1.10:554/user=admin&password=&channel=1&stream=0.sdp?real_stream--rtp-caching=100
 - Lite: rtsp://192.168.1.10:554/user=admin&password=&channel=1&stream=1.sdp?real_stream--rtp-caching=100
 
-Configuration of these cameras is done on the media port. The protocol is non-standard and proprietary. On mobile, the XmEye app can be used with limited configuration options. On Windows, H264 DVR CMS a.k.a `General_CMS_V3.1.0.4.T.20160218.exe` a.k.a. surf_launch.exe by Indigo Rose can configure all the camera settings and has further NVR capabilities.
+Configuration of these cameras is done on the media port. The protocol is non-standard and proprietary. On mobile, the XmEye app can be used with limited configuration options. On Windows, H264 DVR CMS a.k.a `General_CMS_V3.1.0.4.T.20160218.exe` a.k.a. surf_launch.exe by Indigo Rose can configure all the camera settings and has further DVR capabilities.
 
 H264 DVR CMS is available here:
 
