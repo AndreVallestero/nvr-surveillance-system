@@ -64,7 +64,7 @@ Most important features in descending order:
 3. Integrated PSU: An integrated power supply is more efficient, more attractive, and takes less space.
 4. Port Count: More ports means more cameras that can be connected.
 
-As of the time of writing this, the best value cameras are from Amazon:
+As of the time of writing this, the best PoE switches are from Amazon:
 
 - $45 MokerLink 4 Port PoE: https://www.amazon.ca/dp/B07SGBQNLM
 
