@@ -27,17 +27,15 @@ As of the time of writing this, the best value cameras are from AliExpress:
 
 Many of these cameras operate at IP 192.168.x.10 with the following ports:
 
-```
-23/udp telnet
-80/tcp web-server
-517/udp talk
-520/udp route
-554/tcp rtsp
-3343/udp ms-cluster-net
-3702/udp ws-discovery
-8899/tcp onvif
-34567/tcp media configuration-setup-factory-cms
-```
+- 23/udp telnet
+- 80/tcp web-server
+- 517/udp talk
+- 520/udp route
+- 554/tcp rtsp
+- 3343/udp ms-cluster-net
+- 3702/udp ws-discovery
+- 8899/tcp onvif
+- 34567/tcp media configuration-setup-factory-cms
 
 The default camera username is `admin`, there is no default password (empty)
 
