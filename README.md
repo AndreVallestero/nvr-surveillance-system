@@ -34,7 +34,7 @@ Many of these cameras operate at IP 192.168.x.10 with the following ports:
 - 554/tcp rtsp
 - 3343/udp ms-cluster-net
 - 3702/udp ws-discovery
-- 8899/tcp onvif
+- 8000/tcp or 8899/tcp onvif
 - 34567/tcp media configuration-setup-factory-cms
 
 The default camera username is `admin`, there is no default password (empty)
