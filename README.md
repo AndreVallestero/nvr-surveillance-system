@@ -138,5 +138,5 @@ Use a [USB3 to SATA3 connector](https://www.amazon.com/dp/B011M8YACM) to connect
     - Buy in bulk, at least 100.
     - Can usually find in a set that includes crimper and ethernet tester
 - Ethernet Tester (optional)
-    - Not too important, just get one that can test speeds and PoE
+    - Not too important, idealy get one that can test speeds, PoE, and individual wires.
     - Only get it if it's included in a set
