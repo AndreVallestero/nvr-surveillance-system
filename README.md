@@ -95,11 +95,11 @@ Closed source:
 
 The highest performance NVR is Moonfire which is capable of running 10, 1080p streams on a Raspberry Pi. This is possible because it doesn't re-encode the video, rather it simply stores the video that was pre-encoded by the cameras. Unfortunately, it's not actively developed and it has the smallest community of all these projects. Hopefully it picks up as its design philosophy is very promising.
 
-Shinobi is similar to Moonfire in the sense that it allows for video-passthrough, but it's much more polished which makes it a better option for a low power systems.
+Shinobi is similar to Moonfire in the sense that it allows for video-passthrough, but it's much more polished which makes it a better option for low power systems.
 
 MotionEye (and its OS version, MotionEyeOS) is the most popular open source NVR. It's build on GnuMotion, a well designed toolkit for network recording. It's especially popular because it's designed to run on lower-end hardware like the Raspberry Pi while providing many features. It's a good balance between Moonfire and ZoneMinder.
 
-ZoneMinder is the most fully featured of the open-source NVRs. It's also less optimized than some of the others so it's recommended to run it on a more powerful hardware.
+ZoneMinder is the most fully featured of the open-source NVRs. It's also less optimized than some of the others, so it's recommended to run it on more powerful hardware.
 
 When it comes to closed-source Windows, Blue Iris is by far the best. Massive community, massive feature set, very reliable. There isn't much of a reason to use anything other closed-source Windows NVR.
 
