@@ -17,8 +17,8 @@ Total cost: ~$130USD for 4 cameras.
 Most important features in descending order:
 
 1. ONVIF and RTSP: Open standards and protocols for interfacing with video streams.
-2. Outdoor: Nightvision, water and weather proof, ideally +-40 ambient .
-3. PoE: Power over ethernet, allows data and power transfer over a single cable. More secure than wireless, less network impact, lower latency, and better quality stream.
+2. Outdoor: Nightvision, water, and weather proof, ideally +-40 ambient .
+3. PoE: Power over ethernet. Allows data and power transfer over a single cable. More secure than wireless, less network impact, lower latency, and better quality stream.
 
 As of the time of writing this, the best value cameras are from AliExpress:
 
