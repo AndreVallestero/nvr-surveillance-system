@@ -127,8 +127,8 @@ Use a [USB3 to SATA3 connector](https://www.amazon.com/dp/B011M8YACM) to connect
 - 150+ ft (50m) of ethernet
     - Ensure Cat5[e] or better. If unsure, test if it's capable of gigabit speeds. If it is, it's probably capable of carrying the PoE required 
     - Ensure that it's pure copper, not aluminum. Aluminum cables conduct much worse and are horrible for signal integrity past a few meters.
-    - Prefer round (twisted pair) cables instead of flat cables. Round cables retain better signal integrity, are less fragile, and are better suited for outdoors.
-    - Do NOT buy less than 30m at a time. This is very wasteful. It's better to buy in bulk and cut to size.
+    - Ensure calbe is round (twisted pair) cables instead of flat cables. Round cables retain better signal integrity, are less fragile, and are better suited for outdoors. Flat cables are also very diffuclt to crimp and cannot be crimped using standard RJ45 jacks.
+    - Do NOT buy less than 45m (150ft) at a time. This is very wasteful. It's better to buy in bulk and cut to size. Ideally buy 1000ft at a time
 - Crimper
     - Any crimper capable of RJ45 connectors should be suitable.
     - Wire strippers are a added bonus.
