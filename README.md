@@ -95,7 +95,7 @@ Closed source:
 - [Blue Iris](https://blueirissoftware.com/)
 - [Ivideon Server](https://www.ivideon.com/)
 
-The highest performance NVR is Moonfire which is capable of running 10, 1080p streams on a Raspberry Pi. This is possible because it doesn't re-encode the video, rather it simply stores the video that was pre-encoded by the cameras. Unfortunately, it's not actively developed and it has the smallest community of all these projects. Hopefully it picks up as its design philosophy is very promising.
+The highest performance NVR is Moonfire which is capable of running 10, 1080p streams on a Raspberry Pi. This is possible because it doesn't re-encode the video, rather it simply stores the video that was pre-encoded by the cameras. Unfortunately, it doesn't yet have a stable release and it has the smallest community of all these projects. Hopefully it picks up as its design philosophy is very promising.
 
 Shinobi is similar to Moonfire in the sense that it allows for video-passthrough, but it's much more polished which makes it a better option for low power systems.
 
