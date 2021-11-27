@@ -48,7 +48,7 @@ The most common ports for onvif are:
 - 8443
 - 8899
 
-To get more information on your camera, it's recommended to use an ONVIF scanner such as onvifer (Android), ONVIF Device Manager (Windows), or ONVIFviewer (Linux). You can often find the best RTSP stream URI in the scanned data.
+To get more information on your camera, it's recommended to use an ONVIF scanner such as Onvier (Android), ONVIF Device Manager (Windows), or ONVIFviewer (Linux). You can often find the best RTSP stream URI in the scanned data.
 
 The default camera username is `admin`, the password is usually empty, but can sometimes have a default value, your ONVIF scanner should detect it.
 
