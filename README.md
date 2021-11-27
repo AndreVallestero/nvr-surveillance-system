@@ -39,7 +39,18 @@ Many of these cameras operate at IP 192.168.x.10 with the following ports:
 - 8000/tcp or 8899/tcp onvif
 - 34567/tcp media configuration-setup-factory-cms
 
-The default camera username is `admin`, there is no default password (empty)
+The most common ports for onvif are:
+
+- 80
+- 443
+- 8000
+- 8080
+- 8443
+- 8899
+
+To get more information on your camera, it's recommended to use an ONVIF scanner such as onvifer (Android), ONVIF Device Manager (Windows), or ONVIFviewer (Linux). You can often find the best RTSP stream URI in the scanned data.
+
+The default camera username is `admin`, the password is usually empty, but can sometimes have a default value, your ONVIF scanner should detect it.
 
 To directly access the network stream through RTSP with VLC or other players, use the following address:
 
